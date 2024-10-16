@@ -1,0 +1,41 @@
+Fredel Morales Jimenez
+RETO 6: PREGUNTA DE REFLEXION
+
+Actualmente el Poder Judicial de la Federación está haciendo un esfuerzo para
+contribuir en la transformación digital del país. Con tu experiencia y habilidades
+actuales ¿Que soluciones basadas en ciencia de datos propones que sean posibles de 
+implementar y que beneficien a la sociedad mexicana?.
+
+Respuesta:
+
+    - Comenzaré mi respuesta reconociendo su esfuerzo como equipo en la transformación 
+      digital, ya que se convirtió en un recurso necesario y por su puesto impostergable ante 
+      la pandemia del 2020.
+    
+    - En el análisis y comparación de sentencias judiciales para identificar sesgos o tendencias 
+      trabajando en conjunto con abogados y otros profesionales con la finalidad de integrar dicho
+      análisis en una estrategía que optimice los procesos y mejore la eficacia de la defensa o la
+      acusación y asi mismo nos proyecte las barreras que impiden el acceso a la justicia y nos 
+      sufrague iniciativas que busquen hacer el sistema mas inclusivo.
+      Ya que la falta de acceso a la justicia por lo general afecta a grupos desaventajados como
+      las mujeres, sectores pobres, comunidades negras, inmigrantes y población LGBT
+
+    - Cuando hablamos de juicios sabemos que detrás de ellos existen etapas como:
+        * Postulatoria
+        * Probatoria
+        * Alegatos
+        * Resolución
+      En la etapa probatoria hay sub etapas como:
+            * Ofrecimiento
+            * Admisión
+            * Desahogo de pruebas
+        Y justo es en esta etapa en donde encontraremos el proceso de "el conflicto" 
+        que es lo que condujo al juicio y dentro de "el conflicto" podemos segregar 
+        varios dilemas de los cuales algunos nos encaminan a una ciencia muy importante que es la 
+        psicología.
+
+        Esta estudia los procesos mentales, el comportamiento y las emociones de las
+        personas, por lo que se podría implementar junto a un profesional especializado
+        en ello una técnica de analisis de sentimientos que arranque de los testimonios
+        o declaraciones para poder tener un estimado de credibilidad, persuación y 
+        resolucion final.
